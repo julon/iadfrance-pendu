@@ -1,0 +1,5 @@
+<md-button
+  ng-disabled="$ctrl.key.used"
+  ng-click="$ctrl.handleKeyPress($ctrl.key)"
+  aria-label="{{$ctrl.key.char}}"
+  class="md-icon-button launch md-accent">{{$ctrl.key.char}}</md-button>
