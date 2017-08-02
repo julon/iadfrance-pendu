@@ -1,5 +1,7 @@
 # Requirements
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/julon/iadinternational-pendu.svg)](https://greenkeeper.io/)
+
 - latest Node
 
 # How to launch
